@@ -10,6 +10,6 @@ def walk
 end
 end
 
-Malou = Person.new
-Malou.talk
-Malou.walk
+malou = Person.new
+malou.talk
+malou.walk
